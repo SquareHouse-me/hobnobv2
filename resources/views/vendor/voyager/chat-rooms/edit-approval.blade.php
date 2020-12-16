@@ -33,7 +33,7 @@
                                             </div>
                                             <div class="form-group">
                                                 <label for="image">Logo</label>
-                                                <input value="{{ $chatRoom->information }}" type="file" name="image" class="form-control" accept="image/*">
+                                                <input type="file" name="image" class="form-control" accept="image/*">
                                             </div>
 
                                         </div>
